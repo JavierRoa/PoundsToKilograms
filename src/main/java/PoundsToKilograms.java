@@ -9,6 +9,6 @@ public class PoundsToKilograms {
         double conversion = 0.45349237;
         double kilos = libras * conversion;
 
-        System.out.println("282 libras son " + kilos + " kilos");
+        System.out.println(libras + " libras son " + kilos + " kilos");
     }
 }
